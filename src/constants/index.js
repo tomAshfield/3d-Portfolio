@@ -18,6 +18,7 @@ import {
     cerberus,
     churchdwight,
     sunvial,
+    olaplex,
     Sunvial,
     photobooth,
     projectportfolio,
