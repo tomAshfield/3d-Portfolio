@@ -115,6 +115,19 @@ import {
   
   const experiences = [
     {
+      title: "Data Governance & Analyst",
+      company_name: "Olaplex",
+      icon: olaplex,
+      iconBg: "#E6DEDD",
+      date: "Dec 2024 - Present",
+      points: [
+        "Develop and maintain Streamlit web applications integrated with our Snowflake backend, improving efficiency and accessibility of data workflows across departments.",
+        "Spearheaded the companies file management app enabling users to upload local files to our backend, automatically create Snowflake tables, and run SQL queries seamlessly.",
+        "Redefined our process in provideding software based solutions to the rest of the company, ensuring each solution delivered meets business standards.",
+        "Define, manage, and update data team documentation and business term definitions, ensuring consistency and clarity across the organization.",
+      ],
+    },
+    {
       title: "Freelance Web Developer",
       company_name: "Sunvial",
       icon: sunvial,

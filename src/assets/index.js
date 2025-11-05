@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import cerberus from './company/cerberus.png';
 import churchdwight from './company/churchdwight.png';
 import sunvial from './company/sunvial.png';
+import olaplex from './company/olaplex_logo.png';
 
 import Sunvial from './sunvial2.png';
 import photobooth from './photobooth.png';
@@ -65,6 +66,7 @@ export {
   churchdwight,
   sunvial,
   Sunvial,
+  olaplex,
   photobooth,
   projectportfolio,
 };
